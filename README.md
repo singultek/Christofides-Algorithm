@@ -5,7 +5,6 @@ One popular approximate solution of Travelling Salesman Problem is Christofides 
 In this code, one can found several different ways, which are applied on matching and spanning tree parts, 
 of implementing successful Christofides algorithm.
 
-
 In the project folder, there are one Jupyter Notebook file, which is named as main_program.ipynb and
 three python files, which are named as Christofides_Algorithm.py, run_functions.py and main_program.py. 
 Both options, which are main_program.ipynb and main_program.py, work exactly same. 
